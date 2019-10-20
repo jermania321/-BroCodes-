@@ -2,3 +2,5 @@
 
 
 cout<<"Hello World";
+cout<<"good morning";
+cin>>a;
